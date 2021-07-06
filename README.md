@@ -3,6 +3,4 @@
 <p style="display:block"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PandeCode&show_icons=true&locale=en&count_private=true&theme=dracula" alt="PandeCode"></p>
 <hr/>
 # Currently playing with
-<ul align="center">
- <li>SFML</li>
-</ul>
+ - SFML
