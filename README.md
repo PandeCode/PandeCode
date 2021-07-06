@@ -1,4 +1,4 @@
-# Currently playing with
+# Currently tinkering with
  - SFML
  - Unity
  - Neovim configs
