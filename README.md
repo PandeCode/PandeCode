@@ -1,4 +1,4 @@
-I like C++ and linux
+I like C++, Linux.
 # Currently tinkering with
  - SFML
  - Unity
