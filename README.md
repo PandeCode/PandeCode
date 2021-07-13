@@ -3,9 +3,10 @@ I like C++, Linux.
  - SFML
  - Unity
  - Neovim configs
+
 # Stats
-<div>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PandeCode&show_icons=true&locale=en&theme=dracula&langs_count=20" alt="PandeCode" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PandeCode&show_icons=true&locale=en&count_private=true&theme=dracula" alt="PandeCode">
-</div>
-<h1>(i use arch btw)</h1>
+[![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#(i use arch btw)
