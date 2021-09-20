@@ -1,7 +1,7 @@
 I like C++, Linux.
 ### Currently tinkering with
- - SFML
- - Unity
+ - C++ stl
+ - Linux Ricing
  - Neovim configs
 
 # Stats
