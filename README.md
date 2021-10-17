@@ -12,7 +12,7 @@ I like C++, Linux.
 
 **🐱 My GitHub Data** 
 
-> 🏆 485 Contributions in the Year 2021
+> 🏆 486 Contributions in the Year 2021
  > 
 > 📦 87.9 kB Used in GitHub's Storage 
  > 
@@ -51,18 +51,18 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-C++                      8 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.54% 
-TypeScript               3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-HTML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
+C++                      7 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.56% 
+TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
+Rust                     2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+Lua                      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
 🔥 Editors: 
-Neovim                   20 hrs 52 mins      █████████████████████████   99.76% 
-Fish                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+Neovim                   21 hrs 31 mins      █████████████████████████   99.77% 
+Fish                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
 💻 Operating System: 
-Linux                    20 hrs 55 mins      █████████████████████████   100.0%
+Linux                    21 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +83,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
