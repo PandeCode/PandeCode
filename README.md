@@ -1,8 +1,9 @@
 I like C++, Linux.
 ### Currently tinkering with
- - C++ stl
- - Linux Ricing
+ - C++ 20 stl
+ - Linux Ricing (DWM, XORG, SDDM)
  - Neovim configs
+ - Emacs
 
 # Stats
 <!--START_SECTION:waka-->
