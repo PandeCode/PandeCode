@@ -9,11 +9,11 @@ I like C++, Linux.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206342%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206488%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 523 Contributions in the Year 2021
+> 🏆 524 Contributions in the Year 2021
  > 
 > 📦 92.6 kB Used in GitHub's Storage 
  > 
@@ -39,8 +39,8 @@ Monday       73 commits     ████░░░░░░░░░░░░░�
 Tuesday      71 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
 Wednesday    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
 Thursday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
-Saturday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
+Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
 Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
 
 ```
@@ -52,17 +52,17 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-C++                      11 hrs 27 mins      ██████████████░░░░░░░░░░░   56.46% 
-Bash                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-Lua                      1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
-Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Haskell                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.64%
+C++                      6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.03% 
+Haskell                  2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Bash                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49% 
+Lua                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+Other                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.89%
 
 🔥 Editors: 
-Neovim                   20 hrs 17 mins      █████████████████████████   100.0%
+Neovim                   18 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    20 hrs 17 mins      █████████████████████████   100.0%
+Linux                    18 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +83,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/11/2021
+ Last Updated on 13/11/2021
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
