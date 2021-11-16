@@ -52,17 +52,17 @@ Sunday       60 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-C++                      7 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   38.44% 
-Haskell                  2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.28% 
-Lua                      2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Bash                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58% 
-Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.81%
+C++                      9 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   43.45% 
+Lua                      2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Haskell                  2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Other                    1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 🔥 Editors: 
-Neovim                   18 hrs 38 mins      █████████████████████████   100.0%
+Neovim                   21 hrs 42 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    18 hrs 38 mins      █████████████████████████   100.0%
+Linux                    21 hrs 42 mins      █████████████████████████   100.0%
 
 ```
 
@@ -83,7 +83,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/11/2021
+ Last Updated on 16/11/2021
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
