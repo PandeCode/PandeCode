@@ -9,11 +9,11 @@ I like C++, Linux.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-211036%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-211631%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 537 Contributions in the Year 2021
+> 🏆 539 Contributions in the Year 2021
  > 
 > 📦 92.7 kB Used in GitHub's Storage 
  > 
@@ -26,22 +26,22 @@ I like C++, Linux.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    81 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-🌆 Daytime    193 commits    ███████████░░░░░░░░░░░░░░   46.17% 
-🌃 Evening    117 commits    ███████░░░░░░░░░░░░░░░░░░   27.99% 
-🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.46%
+🌞 Morning    81 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
+🌆 Daytime    195 commits    ███████████░░░░░░░░░░░░░░   46.54% 
+🌃 Evening    117 commits    ███████░░░░░░░░░░░░░░░░░░   27.92% 
+🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       72 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
-Tuesday      71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Wednesday    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
-Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Monday       72 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
+Tuesday      71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+Wednesday    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
+Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Sunday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84%
 
 ```
 
@@ -83,7 +83,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
