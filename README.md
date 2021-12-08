@@ -15,9 +15,9 @@ I like C++, Linux.
 
 **🐱 My GitHub Data** 
 
-> 🏆 563 Contributions in the Year 2021
+> 🏆 565 Contributions in the Year 2021
  > 
-> 📦 93.0 kB Used in GitHub's Storage 
+> 📦 93.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,8 +29,8 @@ I like C++, Linux.
 
 ```text
 🌞 Morning    81 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
-🌆 Daytime    201 commits    ███████████░░░░░░░░░░░░░░   46.21% 
-🌃 Evening    129 commits    ███████░░░░░░░░░░░░░░░░░░   29.66% 
+🌆 Daytime    202 commits    ███████████░░░░░░░░░░░░░░   46.44% 
+🌃 Evening    128 commits    ███████░░░░░░░░░░░░░░░░░░   29.43% 
 🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
 
 ```
@@ -38,12 +38,12 @@ I like C++, Linux.
 
 ```text
 Monday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-Tuesday      76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
+Tuesday      77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
 Wednesday    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
 Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
 Friday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
 Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
+Sunday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87%
 
 ```
 
@@ -81,7 +81,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
