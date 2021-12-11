@@ -9,7 +9,7 @@ I like C++, Linux.
 
 # Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139%20Thousand%20lines%20of%20code-blue)
 
@@ -54,13 +54,13 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.0%
+Other                    7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Neovim                   8 mins              █████████████████████████   100.0%
+Neovim                   7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 mins              █████████████████████████   100.0%
+Linux                    7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -81,7 +81,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/12/2021
+ Last Updated on 11/12/2021
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
