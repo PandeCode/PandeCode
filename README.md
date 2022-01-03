@@ -1,11 +1,12 @@
-I like C++, Linux.
 ### Currently tinkering with
+ - Rust
  - Emacs
+ - Awesome wm
  - Xmonad
+ - Opengl
  - Linux Ricing
  - C++ 20 standard library
  - Haskell
- - Rust
 
 # Stats
 <!--START_SECTION:waka-->
@@ -86,5 +87,4 @@ C++                      3 repos             ███░░░░░░░░�
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-#(i use arch btw)
+IyBpIHVzZSBhcmNoIGJ0dw==
