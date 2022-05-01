@@ -18,7 +18,7 @@
 
 > 🏆 6 Contributions in the Year 2022
  > 
-> 📦 92.7 kB Used in GitHub's Storage 
+> 📦 92.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,17 +55,17 @@ Sunday       56 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   1 hr 58 mins        ███████████░░░░░░░░░░░░░░   47.23% 
-C                        1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.08% 
-Lua                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
-xf86conf                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45%
+Python                   2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.06% 
+C                        1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   18.83% 
+Lua                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
+C++                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
+xf86conf                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
 
 🔥 Editors: 
-Neovim                   4 hrs 10 mins       █████████████████████████   100.0%
+Neovim                   5 hrs 28 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 10 mins       █████████████████████████   100.0%
+Linux                    5 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +86,7 @@ C++                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/04/2022 01:50:58 UTC
+ Last Updated on 01/05/2022 02:08:57 UTC
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
