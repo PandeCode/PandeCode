@@ -14,13 +14,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 22 Contributions in the Year 2022
  > 
-> 📦 92.9 kB Used in GitHub's Storage 
+> 📦 93.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,10 +31,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
+🌞 Morning    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
 🌆 Daytime    195 commits    ███████████░░░░░░░░░░░░░░   44.83% 
-🌃 Evening    133 commits    ███████░░░░░░░░░░░░░░░░░░   30.57% 
-🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+🌃 Evening    135 commits    ███████░░░░░░░░░░░░░░░░░░   31.03% 
+🌙 Night      29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -43,9 +43,9 @@
 Monday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
 Tuesday      76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
 Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
-Thursday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Friday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Saturday     43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
+Friday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
 Sunday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41%
 
 ```
@@ -84,7 +84,7 @@ C++                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2022 01:47:43 UTC
+ Last Updated on 19/06/2022 01:53:21 UTC
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
