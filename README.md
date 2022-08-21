@@ -10,15 +10,15 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-156%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-155%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 61 Contributions in the Year 2022
+> 🏆 72 Contributions in the Year 2022
  > 
 > 📦 93.8 kB Used in GitHub's Storage 
  > 
@@ -31,22 +31,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.07% 
-🌆 Daytime    209 commits    ███████████░░░░░░░░░░░░░░   45.73% 
-🌃 Evening    140 commits    ███████░░░░░░░░░░░░░░░░░░   30.63% 
-🌙 Night      30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
+🌞 Morning    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    210 commits    ███████████░░░░░░░░░░░░░░   44.87% 
+🌃 Evening    142 commits    ███████░░░░░░░░░░░░░░░░░░   30.34% 
+🌙 Night      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
-Tuesday      76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.63% 
-Wednesday    71 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
-Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-Saturday     58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Sunday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04%
+Monday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
+Tuesday      76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
+Wednesday    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.17% 
+Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Friday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Saturday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Sunday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46%
 
 ```
 
@@ -88,7 +88,7 @@ C++                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 01:57:56 UTC
+ Last Updated on 21/08/2022 01:54:54 UTC
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
