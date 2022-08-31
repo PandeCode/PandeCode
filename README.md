@@ -10,7 +10,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 86 Contributions in the Year 2022
+> 🏆 87 Contributions in the Year 2022
  > 
 > 📦 94.0 kB Used in GitHub's Storage 
  > 
@@ -31,22 +31,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
-🌆 Daytime    198 commits    ██████████░░░░░░░░░░░░░░░   42.86% 
-🌃 Evening    143 commits    ███████░░░░░░░░░░░░░░░░░░   30.95% 
-🌙 Night      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.31%
+🌞 Morning    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
+🌆 Daytime    199 commits    ██████████░░░░░░░░░░░░░░░   42.98% 
+🌃 Evening    143 commits    ███████░░░░░░░░░░░░░░░░░░   30.89% 
+🌙 Night      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
-Tuesday      82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
-Wednesday    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
-Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Saturday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
-Sunday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Monday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+Tuesday      83 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+Wednesday    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
+Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Saturday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
+Sunday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61%
 
 ```
 
@@ -88,7 +88,7 @@ C++                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 02:21:07 UTC
+ Last Updated on 31/08/2022 02:28:56 UTC
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
