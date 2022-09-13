@@ -57,15 +57,13 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ██████████████████████░░░   89.43% 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
-Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   4 hrs 30 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 30 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -86,7 +84,7 @@ C++                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/PandeCode/PandeCode/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 02:24:12 UTC
+ Last Updated on 13/09/2022 02:14:52 UTC
 <!--END_SECTION:waka-->
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandeCode&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
