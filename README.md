@@ -10,7 +10,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 101.2 kB Used in GitHub's Storage 
+> 📦 101.3 kB Used in GitHub's Storage 
  > 
 > 🏆 305 Contributions in the Year 2023
  > 
@@ -55,14 +55,14 @@ Sunday                   443 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   13 mins             ██████████████████░░░░░░░   73.00 % 
-Lua                      5 mins              ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+Python                   16 mins             ███████████████████░░░░░░   76.81 % 
+Lua                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
 
 🔥 Editors: 
-Neovim                   18 mins             █████████████████████████   100.00 % 
+Neovim                   21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      18 mins             █████████████████████████   100.00 % 
+WSL                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2023 00:54:45 UTC
+ Last Updated on 16/11/2023 00:55:22 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
