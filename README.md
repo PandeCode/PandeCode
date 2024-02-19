@@ -20,7 +20,7 @@
 
 > 📦 101.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,26 +55,23 @@ Sunday                   516 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-TypeScript               31 mins             ████████████████░░░░░░░░░   64.10 % 
-Python                   16 mins             ████████░░░░░░░░░░░░░░░░░   33.21 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -84,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2024 00:55:15 UTC
+ Last Updated on 19/02/2024 00:53:18 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
