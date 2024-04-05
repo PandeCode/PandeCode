@@ -10,7 +10,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-856%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,10 +53,10 @@ Sunday                   638 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Rust                     2 hrs 42 mins       ██████████████████░░░░░░░   70.46 % 
-HTML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Lua                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Rust                     2 hrs 42 mins       ██████████████████░░░░░░░   70.40 % 
+HTML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Lua                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
@@ -83,7 +83,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2024 00:54:01 UTC
+ Last Updated on 05/04/2024 00:53:18 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
