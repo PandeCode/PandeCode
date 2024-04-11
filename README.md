@@ -10,8 +10,6 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-865%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-757.1%20thousand%20lines%20of%20code-blue)
@@ -26,46 +24,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1230 commits        ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌆 Daytime                852 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-🌃 Evening                260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-🌙 Night                  1558 commits        ██████████░░░░░░░░░░░░░░░   39.95 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   583 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Tuesday                  717 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Wednesday                490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Thursday                 451 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Friday                   438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Saturday                 586 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Sunday                   635 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Costa_Rica
-
-💬 Programming Languages: 
-Rust                     5 hrs 32 mins       █████████████████░░░░░░░░   67.04 % 
-Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-
-🔥 Editors: 
-Neovim                   8 hrs 16 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      8 hrs 16 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -83,7 +41,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2024 00:52:44 UTC
+ Last Updated on 11/04/2024 00:53:41 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
