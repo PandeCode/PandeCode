@@ -10,7 +10,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,18 +53,17 @@ Sunday                   636 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Markdown                 4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-Python                   3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.45 % 
-Nix                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Lua                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 4 hrs 1 min         █████████████░░░░░░░░░░░░   51.75 % 
+Python                   1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+Nix                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Lua                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Rust                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 51 mins       ███████████████████████░░   93.66 % 
-Unknown Editor           40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Neovim                   7 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      10 hrs 32 mins      █████████████████████████   100.00 % 
+WSL                      7 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +83,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 00:57:31 UTC
+ Last Updated on 22/04/2024 00:55:29 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
