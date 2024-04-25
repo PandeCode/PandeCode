@@ -1,11 +1,9 @@
 ### Currently tinkering with
  - Rust
  - Emacs
- - Awesome wm
- - Xmonad
+ - NixOS
  - Opengl
  - Linux Ricing
- - C++ 20 standard library
  - Haskell
 
 # Stats
