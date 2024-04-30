@@ -16,7 +16,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 102.2 kB Used in GitHub's Storage 
+> 📦 102.3 kB Used in GitHub's Storage 
  > 
 > 🏆 46 Contributions in the Year 2024
  > 
@@ -53,11 +53,11 @@ Sunday                   636 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.05 % 
-kdl                      42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Nushell                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Markdown                 1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
+kdl                      42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Nushell                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 C++                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🔥 Editors: 
 Neovim                   3 hrs 48 mins       █████████████████████████   100.00 % 
@@ -83,7 +83,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 00:55:36 UTC
+ Last Updated on 30/04/2024 00:54:05 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
