@@ -8,8 +8,6 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-757.4%20thousand%20lines%20of%20code-blue)
@@ -53,16 +51,17 @@ Sunday                   639 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Nix                      55 mins             ███████████████████████░░   92.81 % 
-Batchfile                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Nix                      37 mins             ██████████████░░░░░░░░░░░   54.40 % 
+Rust                     22 mins             ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Batchfile                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Lua                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Vim Script               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Neovim                   59 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      59 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 00:58:30 UTC
+ Last Updated on 16/06/2024 01:03:04 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
