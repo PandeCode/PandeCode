@@ -18,8 +18,6 @@
 
 > 📦 102.2 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -53,15 +51,13 @@ Sunday                   639 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Rust                     23 mins             ███████████░░░░░░░░░░░░░░   42.85 % 
-TOML                     15 mins             ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-Nix                      15 mins             ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Rust                     23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   55 mins             █████████████████████████   100.00 % 
+Neovim                   23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      55 mins             █████████████████████████   100.00 % 
+WSL                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2024 00:59:11 UTC
+ Last Updated on 05/07/2024 00:58:48 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
