@@ -53,14 +53,14 @@ Sunday                   639 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Python                   32 mins             █████████████████████░░░░   85.27 % 
-Nix                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Python                   17 mins             ███████████████████░░░░░░   76.38 % 
+Nix                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 🔥 Editors: 
-Neovim                   37 mins             █████████████████████████   100.00 % 
+Neovim                   23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      37 mins             █████████████████████████   100.00 % 
+WSL                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 01:03:55 UTC
+ Last Updated on 08/09/2024 01:10:08 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
