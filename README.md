@@ -8,7 +8,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -53,16 +53,16 @@ Sunday                   640 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Python                   1 hr                █████████████████████░░░░   82.67 % 
-Lua                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Nix                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   3 hrs 35 mins       ████████████████████████░   94.47 % 
+Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Nix                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Neovim                   1 hr 12 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 12 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 01:06:59 UTC
+ Last Updated on 13/10/2024 01:13:19 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
