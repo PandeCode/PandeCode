@@ -8,7 +8,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,17 +53,17 @@ Sunday                   639 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-C                        2 hrs 58 mins       █████████████░░░░░░░░░░░░   51.26 % 
-YAML                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Lua                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Nix                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+YAML                     55 mins             ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Lua                      53 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+JSON                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Nix                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 47 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 hrs 47 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +83,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2024 01:09:23 UTC
+ Last Updated on 25/10/2024 01:09:45 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
