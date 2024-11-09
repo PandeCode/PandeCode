@@ -53,15 +53,15 @@ Sunday                   639 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Nix                      8 mins              ████████████░░░░░░░░░░░░░   46.54 % 
-Lua                      6 mins              █████████░░░░░░░░░░░░░░░░   35.73 % 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Nix                      9 mins              ████████████░░░░░░░░░░░░░   48.71 % 
+Lua                      6 mins              █████████░░░░░░░░░░░░░░░░   36.65 % 
+Rust                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 
 🔥 Editors: 
-Neovim                   19 mins             █████████████████████████   100.00 % 
+Neovim                   18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      19 mins             █████████████████████████   100.00 % 
+WSL                      18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +81,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 01:08:34 UTC
+ Last Updated on 09/11/2024 01:06:03 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
