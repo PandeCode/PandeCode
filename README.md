@@ -18,11 +18,11 @@
 
 > 📦 106.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
@@ -65,11 +65,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Rust                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -79,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 01:08:49 UTC
+ Last Updated on 05/01/2025 01:15:09 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
