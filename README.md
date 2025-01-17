@@ -12,11 +12,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-904.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 106.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 56 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,20 +29,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1635 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌆 Daytime                1248 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-🌃 Evening                430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-🌙 Night                  2074 commits        ██████████░░░░░░░░░░░░░░░   38.50 % 
+🌞 Morning                1635 commits        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+🌆 Daytime                1248 commits        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+🌃 Evening                432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+🌙 Night                  2074 commits        ██████████░░░░░░░░░░░░░░░   38.49 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   771 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Tuesday                  956 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Wednesday                730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Tuesday                  956 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Wednesday                732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 Thursday                 637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 Friday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Saturday                 802 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 802 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 Sunday                   909 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 ```
 
@@ -77,7 +79,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 01:07:49 UTC
+ Last Updated on 17/01/2025 01:07:24 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
