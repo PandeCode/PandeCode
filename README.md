@@ -12,11 +12,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-907.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-908.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 106.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 91 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,18 +29,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1640 commits        ████████░░░░░░░░░░░░░░░░░   30.32 % 
+🌞 Morning                1641 commits        ████████░░░░░░░░░░░░░░░░░   30.33 % 
 🌆 Daytime                1250 commits        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
 🌃 Evening                434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-🌙 Night                  2085 commits        ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌙 Night                  2085 commits        ██████████░░░░░░░░░░░░░░░   38.54 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   778 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Tuesday                  956 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Tuesday                  957 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
 Wednesday                732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Thursday                 638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Thursday                 638 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Friday                   583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 Saturday                 804 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 Sunday                   918 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
@@ -51,13 +53,16 @@ Sunday                   918 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nix                      1 hr 55 mins        █████████████████████░░░░   82.99 % 
+Lua                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 01:07:27 UTC
+ Last Updated on 22/01/2025 01:10:07 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
