@@ -8,7 +8,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,13 +16,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 111.4 kB Used in GitHub's Storage 
+> 📦 111.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 137 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -51,17 +53,17 @@ Sunday                   931 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-Nix                      3 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.62 % 
-Bash                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-sh                       41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Nix                      3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.19 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 31 mins       █████████████████████████   100.00 % 
+Neovim                   10 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +83,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 01:14:03 UTC
+ Last Updated on 20/03/2025 01:12:48 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
