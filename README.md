@@ -8,7 +8,7 @@
 
 # Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -16,7 +16,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 113.3 kB Used in GitHub's Storage 
+> 📦 113.4 kB Used in GitHub's Storage 
  > 
 > 🏆 156 Contributions in the Year 2025
  > 
@@ -53,17 +53,17 @@ Sunday                   934 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Costa_Rica
 
 💬 Programming Languages: 
-C++                      22 hrs              ██████████████░░░░░░░░░░░   54.90 % 
-Nix                      9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Lua                      1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Bash                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-CMake                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+C++                      26 hrs 25 mins      ███████████████░░░░░░░░░░   61.99 % 
+Nix                      7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Lua                      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Bash                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+CMake                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Neovim                   40 hrs 4 mins       █████████████████████████   100.00 % 
+Neovim                   42 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    40 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    42 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +83,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 01:23:08 UTC
+ Last Updated on 20/05/2025 01:21:03 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
