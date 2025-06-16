@@ -18,8 +18,6 @@
 
 > 📦 113.6 kB Used in GitHub's Storage 
  > 
-> 🏆 171 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -79,7 +77,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PandeCode/PandeCode/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 01:38:15 UTC
+ Last Updated on 16/06/2025 01:24:37 UTC
 <!--END_SECTION:waka-->
 <!-- 
 [![PandeCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=PandeCode&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
